@@ -1,2 +1,2 @@
 # E-Profile
-Virtual Resume
+Portfolio or Virtual Resume
